@@ -1,0 +1,5 @@
+Todo List aplikacija
+
+U Public folderu se nalazi html css i javascript
+Ostalo je backend napisan u node-u
+Todo-ovi su sacuvani u MongoDB bazi

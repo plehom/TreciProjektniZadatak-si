@@ -1,0 +1,87 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    background-color: rgb(144, 144, 235);
+}
+div{
+    width: 100%;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+#topnav{
+    background-color: rgb(13, 31, 54);
+}
+#naslov{
+    color:white;
+    text-align: center;
+}
+#cont{
+    width:100%;
+    text-align: center;
+}
+#buttons{
+    margin-top: 100px;
+}
+#add{
+    width:100px;
+    color: #fff !important;
+	text-transform: uppercase;
+	text-decoration: none;
+	background: #142931;
+	padding: 20px;
+	border-radius: 50px;
+	display: inline-block;
+	border: none;
+	transition: all 0.4s ease 0s;
+}
+#add:hover {
+	text-shadow: 0px 0px 6px rgba(255, 255, 255, 1);
+	transition: all 0.4s ease 0s;
+}
+
+#inp-box {
+    border:none;
+    border-bottom: solid;
+    border-color: rgb(11, 11, 44);
+    height:40px;
+    background:transparent;
+    color:rgb(13, 31, 54);
+    padding:5px;
+}
+.new{
+    background-color: rgba(26, 26, 99, 0.171);
+    margin-left: 15%;
+    height:30px;
+    width:70%;
+    float:center;
+    text-align: center;
+    align-content: center;
+    padding:6px;
+}
+.txt{
+    text-align: center;
+    padding-top:3px;
+}
+.delbtn{
+    float: right;
+    width: 70px;
+    height:30px;
+    border-radius: 8px;
+    background-color: #142931;
+    border-color:black;
+    color:white;
+    margin-left: 5px;
+}
+.editbtn{
+    float: right;
+    width: 70px;
+    height:30px;
+    border-radius: 8px;
+    background-color: #142931;
+    border-color:black;
+    color:white;
+    margin-left:5px;
+}
